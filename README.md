@@ -13,5 +13,6 @@ Abre `index.html` en un navegador moderno. Si el navegador bloquea módulos ES a
 <<<<<<< HEAD
 //fallo del sistema
 =======
+## Prueba escrita por dario
 // Conflicto generado por Frenkie
 >>>>>>> main
