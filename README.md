@@ -9,3 +9,23 @@ Proyecto en desarrollo.
 ## Ejecución
 
 Abre `index.html` en un navegador moderno. Si el navegador bloquea módulos ES al abrir archivos locales, ejecuta un servidor web sencillo desde la carpeta del proyecto, por ejemplo con la extensión Live Server de VS Code.
+qfmòskrgnojipsdfngvs
+v+srv
+sv
+sd
+vsdv
+sdv
+sdv
+ds
+v
+sd
+v
+ds
+
+v
+sd
+v
+sd
+vsd
+
+vsd
