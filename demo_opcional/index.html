@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gestor de tareas - Demo DevOps</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <p class="eyebrow">DAW2 · INTRODUCCIÓN A DEVOPS</p>
+    <h1>Gestor de tareas</h1>
+    <p>Aplicación de prueba para comprobar el despliegue en Docker.</p>
+    <form id="task-form">
+      <input id="task" type="text" placeholder="Añadir una tarea" required maxlength="100">
+      <button type="submit">Añadir</button>
+    </form>
+    <ul id="list"></ul>
+    <small>Las tareas se guardan en el navegador (localStorage), no en un volumen Docker.</small>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
