@@ -110,3 +110,5 @@ También se probaron `docker compose logs proxy`, `restart web`, `stop`, `start`
 ## 7. Colaboración
 
 **Enlaces a Pull Requests relevantes:** TODO (añadir la URL del PR `feature/docker` → `develop` una vez creado)
+- feature/docker → develop: 
+https://github.com/AlexDiego227/gestor-tareas/pull/8
