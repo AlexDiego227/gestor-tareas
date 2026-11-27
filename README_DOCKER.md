@@ -13,7 +13,7 @@
 ## Ejecutar la aplicación
 
 ```bash
-git clone https://github.com/AlexDiego227/gestor-tareas.git
+https://github.com/AlexDiego227/gestor-tareas/tree/feature/docker
 cd gestor-tareas
 docker compose up -d --build
 ```
